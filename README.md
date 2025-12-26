@@ -1,11 +1,11 @@
-# 📝 LeetCode Practice Repository
+# LeetCode Practice Repository
 
 Hi there! This repo is where I practice **LeetCode problems** step by step.  
 I focus on solving problems based on **patterns** and also **Top Interview Questions**.
 
 ---
 
-## 🎯 Goal
+## Goal
 
 - Practice algorithms and data structures
 - Improve problem-solving skills
@@ -14,7 +14,7 @@ I focus on solving problems based on **patterns** and also **Top Interview Quest
 
 ---
 
-## 📂 How I Use This Repo
+## How I Use This Repo
 
 I organize my LeetCode practice like this:
 
@@ -25,7 +25,7 @@ I organize my LeetCode practice like this:
 
 ---
 
-## 🚀 Notes
+## Notes
 
 - This repo is for personal learning and practice only
 - All problems are from LeetCode
@@ -34,11 +34,8 @@ I organize my LeetCode practice like this:
 ---
 
 
-## 📚 Useful Links
+## 🔗 Useful Links
 
 - [Sean Prashad’s LeetCode Patterns](https://seanprashad.com/leetcode-patterns/)
 
 - [LeetCode Top 150 Interview Questions](https://leetcode.com/studyplan/top-interview-150/)  
-
----
-Happy coding! 👨‍💻
